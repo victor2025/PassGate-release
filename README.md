@@ -1,8 +1,8 @@
 # PassGate
 
-* release-version: V1.5.0-beta
-
+* release-version: V1.6.3-beta
 * 激活请联系管理员
+* 激活后点击底部栏会有惊喜
 * 不要忘了给项目加Star
 
 ## 免责声明

@@ -1,7 +1,8 @@
 # PassGate
 
-* release-version: V1.6.3-beta
+* release-version: V1.7.3.3-beta
 * 激活请联系管理员
+* 第一二屏：**入门**，第三屏：**出门**
 * 激活后点击摇一摇会有惊喜
 * 不要忘了给项目加Star
 
